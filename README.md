@@ -1,2 +1,3 @@
-# CodersSantader-Ada-BackendJava
-Repositório de projetos backEnd feitos em Java e banco de dados PostgreSQL .
+# CodersSantader-Ada-Backend (Java).
+
+## 💻Repositório de projetos backEnd desenvolvidos em:  Java e banco de dados PostgreSQL.
